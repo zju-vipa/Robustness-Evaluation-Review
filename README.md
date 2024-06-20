@@ -9,8 +9,8 @@
 |---|---|---|---|---|
 | L-BFGS | [*Intriguing properties of neural networks*](https://arxiv.org/abs/1312.6199) [[pdf]](https://arxiv.org/pdf/1312.6199) | Classification  | [[github(unofficial)]](https://github.com/AmineDiro/Adversarial-Attacks) |  2013 |
 | FGSM | [*Explaining and Harnessing Adversarial Examples*](https://arxiv.org/abs/1412.6572) [[pdf]](https://arxiv.org/pdf/1412.6572) | Classification | [[github(unofficial)]](https://github.com/Harry24k/adversarial-attacks-pytorch) | 2014 |
-
-
+| JSMA | [*The Limitations of Deep Learning in Adversarial Settings*](https://ieeexplore.ieee.org/abstract/document/7467366/) [[pdf]](https://arxiv.org/pdf/1511.07528) | Classification | [[github(unofficial)]](https://github.com/Harry24k/adversarial-attacks-pytorch) | 2016 |
+| DeepFool | [*DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks*]
 
 #### Corruptions
 #### Natural Distribution Shift
