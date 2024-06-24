@@ -10,7 +10,11 @@
 | L-BFGS | [*Intriguing properties of neural networks*](https://arxiv.org/abs/1312.6199) [[pdf]](https://arxiv.org/pdf/1312.6199) | Classification  | [[github(unofficial)]](https://github.com/AmineDiro/Adversarial-Attacks) |  2013 |
 | FGSM | [*Explaining and Harnessing Adversarial Examples*](https://arxiv.org/abs/1412.6572) [[pdf]](https://arxiv.org/pdf/1412.6572) | Classification | [[github(unofficial)]](https://github.com/Harry24k/adversarial-attacks-pytorch) | 2014 |
 | JSMA | [*The Limitations of Deep Learning in Adversarial Settings*](https://ieeexplore.ieee.org/abstract/document/7467366/) [[pdf]](https://arxiv.org/pdf/1511.07528) | Classification | [[github(unofficial)]](https://github.com/Harry24k/adversarial-attacks-pytorch) | 2016 |
-| DeepFool | [*DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks*]
+| DeepFool | [*DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks*](https://openaccess.thecvf.com/content_cvpr_2016/html/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.html) [[pdf]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf) | Classification | [[github]](https://github.com/lts4/deepfool) [[github(unofficial)]](https://github.com/Harry24k/adversarial-attacks-pytorch)  | 2016 |
+| PGD | [*Towards Deep Learning Models Resistant to Adversarial Attacks*](https://arxiv.org/abs/1706.06083) [[pdf]](https://arxiv.org/pdf/1706.06083) | Classification | [[github(MNIST)]](https://github.com/MadryLab/mnist_challenge) [[github(CIFAR10)]](https://github.com/MadryLab/cifar10_challenge) [[github(unofficial)]](https://github.com/Harry24k/adversarial-attacks-pytorch)| 2017  
+|C&W| [*Towards Evaluating the Robustness of Neural Networks*](https://ieeexplore.ieee.org/abstract/document/7958570/) [[pdf]](https://arxiv.org/pdf/1608.04644) | Classification | [[official github]](https://github.com/carlini/nn_robust_attacks) [[ART]](https://github.com/Trusted-AI/adversarial-robustness-toolbox) [[Torchattacks]](https://github.com/Harry24k/adversarial-attacks-pytorch) [[Foolbox]](https://github.com/bethgelab/foolbox)  | 2017
+
+
 
 #### Corruptions
 #### Natural Distribution Shift
